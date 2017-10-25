@@ -6,9 +6,10 @@ categories: jekyll update
 ---
 Since I dont get much time to edit and classify movies into the genres they might/should belong to,im going to put the entire list in no particular order,if and when i come back i'll flesh them out into categories and probably rank them and may be give some details,till then.
 
-After The Dark
-American Psycho
-Before Midnight
+After The Dark,
+
+American Psycho,
+Before Midnight,
 Before Sunrise
 Before Sunset
 Being John Malkovich
