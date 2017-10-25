@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Prelimary List(The Fundamentals)"
-date:   2017-10-23 10:22:57 +0530
+date:   2017-10-25 10:22:57 +0530
 categories: jekyll update
 ---
 
