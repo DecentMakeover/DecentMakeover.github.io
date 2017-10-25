@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+For people who have wasted enough time on stupid movies/Books.
+  
+If you have suggestions of your own or if you disliked any movie on the list
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:ryanloaed@live.com)
