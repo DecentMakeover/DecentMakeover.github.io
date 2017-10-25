@@ -3,8 +3,9 @@ layout: post
 title: You're up and running!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I guess there are basic requirements in any feild of study and there are given pre-requisites that must be satisifed by the person who desires to move ahead and confront more complex or may be diffrent problems or concepts.So it is with movies in generel,these may act as the foundation from which you may conceptuliz or tink about other movies or they may provide you with an anchor.This list will be expanded in another post,for now i am uncomfortable including any other movie with these two,in some sense these movies come very close to potraying a planotic idea of a thriller movie,so these two will form the pillars from which we may build our reprtoire of other great movies to come.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+1.The Sixth Sense
+
+2.OldBoy
