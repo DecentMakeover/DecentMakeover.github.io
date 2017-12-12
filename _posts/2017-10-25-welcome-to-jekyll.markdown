@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Prelimary List(The Fundamentals)"
+title:  "Preliminary List(The Fundamentals)"
 date:   2017-10-25 10:22:57 +0530
 categories: jekyll update
 ---
 
-I guess there are basic requirements in any feild of study and there are given pre-requisites that must be satisifed by the person who desires to move ahead and confront more complex or may be diffrent problems or concepts.So it is with movies in generel,these may act as the foundation from which you may conceptualize or think about other movies or they may provide you with an anchor.This list will be expanded in another post,for now i am uncomfortable including any other movie with these two,in some sense these movies come very close to potraying a planotic idea of a thriller movie,so these two will form the pillars from which we may build our repertoire of other great movies to come.
+I guess there are basic requirements in any field of study and there are given pre-requisites that must be satisfied by the person who desires to move ahead and confront more complex or may be different  problems or concepts.So it is with movies in general,these may act as the foundation from which you may conceptualize or think about other movies or they may provide you with an anchor.This list will be expanded in another post,for now i am uncomfortable including any other movie with these two,in some sense these movies come very close to portraying a platonic idea of a thriller movie,so these two will form the pillars from which we may build our repertoire of other great movies to come.
 
 1.The Sixth Sense
 
