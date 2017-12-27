@@ -6,8 +6,6 @@ categories: jekyll update
 ---
 Since I dont get much time to edit and classify movies into the genres they might/should belong to,im going to put the entire list in no particular order,if and when i come back i'll flesh them out into categories and probably rank them and may be give some details,till then.
 
-After The Dark
-
 American Psycho
 
 Before Midnight
@@ -35,6 +33,8 @@ Good Will Hunting
 Her
 
 Inside
+
+Layer Cake
 
 Locke
 
@@ -84,8 +84,6 @@ Trance
 
 Vertigo
 
-About Elly
-
 No Country For Old Men
 
 Open Your Eyes
@@ -114,6 +112,6 @@ The Words
 
 Remember Me
 
-The one i love
+The One I Love
 
-The beach
+The Beach
