@@ -8,6 +8,10 @@ Since I dont get much time to edit and classify movies into the genres they migh
 
 American Psycho
 
+Triangle
+
+Wild tales
+
 Before Midnight
 
 Before Sunrise
@@ -15,6 +19,8 @@ Before Sunrise
 Before Sunset
 
 Being John Malkovich
+
+The Chaser
 
 Black Mirror
 
@@ -51,6 +57,10 @@ Perfume
 Run Lola Run
 
 Saw 1
+
+11:14
+
+Perfect Strangers
 
 Secrets And Lies
 
